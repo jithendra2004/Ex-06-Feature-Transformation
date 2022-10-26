@@ -22,7 +22,7 @@ Apply Feature Transformation techniques to all the features of the data set
 ### STEP 4:
 Print the transformed features
 
-## PPROGRAM:
+## PROGRAM:
 ```
 NAME:V.A.JITHENDRA
 REG.NO:212221230043
